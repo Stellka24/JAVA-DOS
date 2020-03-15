@@ -1,4 +1,4 @@
-# Outbrain - Interview task
+# Interview task
 In this task, you need to write a simple HTTP Denial-of-Service protection system.
 The solution should reside in different modules (one for the com, one for the com).
 
